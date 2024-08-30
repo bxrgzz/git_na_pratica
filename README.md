@@ -42,7 +42,7 @@ Esse `add` é necessário antes de darmos o commit de fato, mas por que isso? No
 
 ## Interfaces Git
 
-Beleza, recebemos a confirmação de que o commit aconteceu, mas isso tá um pouco abstrato ainda né?
+Vamos la, recebemos a confirmação de que o commit aconteceu, mas isso tá um pouco abstrato ainda né?
 Existem algumas [interfaces legais do git](https://git-scm.com/downloads/guis) que você pode fazer o download para poder visualizar de fato como está o projeto, o que foi alterado em cada commit, quando foi alterado etc.
 Aqui eu vou mostrar pra vocês a usarem direto no Github.
 
@@ -54,11 +54,10 @@ Você vai preencher com as informações do projeto, então dar o nome do reposi
 
 <img src="https://media.discordapp.net/attachments/831974152667398214/836828773067915274/unknown.png">
 
-Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos (pode até perceber que alguns deles jpa usamos), mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
+Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos, mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
 
 <img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
 
-Lembra do conceito de `remote` que eu expliquei pra vocês no último vídeo? Nós iremos utilizá-lo agora
 
 * Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o `git remote add origin <link do repositório>`
 
@@ -148,9 +147,9 @@ E se eu fizer uma alteração no repositório, como vocês podem atualizar na m�
 
 ## Fork
 
-Mas Rafa quando eu fiz o clone do seu repositório ele não apareceu no meu Github.
+
 Existe a ferramenta `fork`, que é bem mais simples para fazer isso
-Você só precisa apertar nesse botão dentro do repositório e TCHANAM! Ele aparece automaticamente lá na sua conta:
+Você só precisa apertar nesse botão dentro do repositório e pronto! Ele aparece automaticamente lá na sua conta:
 
 <img src="https://media.discordapp.net/attachments/831974152667398214/836826687634407434/unknown.png">
 
